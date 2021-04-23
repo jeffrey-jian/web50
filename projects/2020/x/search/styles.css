@@ -1,0 +1,68 @@
+.googlepic {
+    padding-top: 180px; 
+    float: center; 
+    width: 272px; 
+    height: 92px"
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    }
+.input-field {
+    width: 600px;
+    height: 35px;
+    font-size: 17px;
+    border: 1px solid lightgrey;
+    border-radius: 25px;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.button {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin: 10px;
+    border: none;
+    background-color: whitesmoke;
+}
+div {
+    padding: 5px;
+}
+.right {
+    display: block;
+    text-align: right;
+}
+a:link, a:visited {
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin: 2px;
+    border: none;
+    display: inline-block;
+}
+td {
+    width: 200px;
+    height: 25px;
+    padding: 5px;
+}
+#advanced-button {
+    background-color: #4C8BF5;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+    margin: 5px;
+}
+td > input {
+    width: 500px;
+    height: 18px;
+}
+.advanced-search {
+    color: #DB4437;
+    font-size: 20px;
+}
